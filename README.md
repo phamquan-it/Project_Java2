@@ -1,18 +1,4 @@
 # **Score Management System**
-
-<p align="center">
-  <a href="https://github.com/yourusername/score-management-system">
-    <img alt="Logo" src="https://example.com/your-logo.png" height="240" />
-  </a>
-  <p align="center">Manage scores of members with ease</p>
-  <p align="center">
-    <a href="LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-Anti%20996-brightgreen.svg?style=flat-square"></a>
-    <a href="https://github.com/yourusername/score-management-system/actions"><img alt="Actions" src="https://img.shields.io/github/actions/workflow/status/yourusername/score-management-system/ci.yml?style=flat-square&branch=master"></a>
-    <a href="https://codecov.io/gh/yourusername/score-management-system"><img alt="Codecov Coverage Status" src="https://img.shields.io/codecov/c/github/yourusername/score-management-system.svg?style=flat-square"></a>
-    <a href="doc/setup.md"><img alt="Doc" src="https://img.shields.io/badge/doc-%3Ah%20setup.md-brightgreen.svg?style=flat-square"></a>
-  </p>
-</p>
-
 ---
 
 ## **Why?**
